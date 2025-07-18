@@ -41,8 +41,8 @@ All assets used are provided by Epic Games under the [Epic Content License](http
 
 ## 📦 Project Status
 
-This is an early prototype focused on testing sprint mechanics and collision damage logic.  
-More features like lightning trails, slow-motion, and enemy AI may come later.
+This is an early prototype focused on testing sprint mechanics and collision logic.  
+More features like, slow-motion, and enemy AI may come later.
 
 ---
 
